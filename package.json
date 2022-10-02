@@ -1,0 +1,16 @@
+{
+  "name": "devops-01-git-ex-final",
+  "version": "1.0.0",
+  "description": "Placeholder project using material ui as styling library",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
