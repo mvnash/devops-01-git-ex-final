@@ -38,14 +38,6 @@ or
 yarn start
 ```
 
-## Help
-
-Any advise for common problems or issues.
-
-```
-command to run if program contains helper info
-```
-
 ## Contributors
 
 Contributors names and contact info
