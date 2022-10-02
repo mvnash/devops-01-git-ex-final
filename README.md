@@ -42,4 +42,4 @@ yarn start
 
 Contributors names and contact info
 
-- Diego Legua
+- Diego
